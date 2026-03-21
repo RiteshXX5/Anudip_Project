@@ -39,7 +39,7 @@ The dashboard provides insights into:
 
 ## 📂 Files Included
 - `AI_Adoption_Dashboard.pbix` → Power BI dashboard
-- `dataset.xlsx` → Dataset used
+- `AI_Adoption_Dataset.xlsx` → Dataset used
 - `dashboard.png` → Dashboard preview
 
 ---
